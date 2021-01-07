@@ -1,3 +1,4 @@
 me.drepic.proton
 me.drepic.proton.exception
 me.drepic.proton.message
+me.drepic.proton.redis
