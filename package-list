@@ -1,4 +1,7 @@
-me.drepic.proton
-me.drepic.proton.exception
-me.drepic.proton.message
-me.drepic.proton.redis
+me.drepic.proton.bukkit
+me.drepic.proton.bungee
+me.drepic.proton.common
+me.drepic.proton.common.adapters
+me.drepic.proton.common.exception
+me.drepic.proton.common.message
+me.drepic.proton.common.redis
